@@ -1,7 +1,7 @@
 IRC Blocks
 ======
 
-http://acd.wtf/blocks/[1]
+http://acd.wtf/blocks/
 
 ```
 A C D   O N   T O P
