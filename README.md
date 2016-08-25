@@ -1,8 +1,6 @@
 IRC Blocks
 ======
 
-http://acd.wtf/blocks/
-
 ```
 A C D   O N   T O P
 C                 O
